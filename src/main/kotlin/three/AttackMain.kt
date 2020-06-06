@@ -30,5 +30,8 @@ fun main() {
 
     person.attack()
 
+    fun sum(x:Int,y:Int) = x*y
+
+    println(sum(1,2))
 
 }
