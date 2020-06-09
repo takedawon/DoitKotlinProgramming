@@ -2,16 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c16ee402-feb8-465b-93c3-66b676420147" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/four/ForSum.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/four/ForeTriangle.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/four/IfCondition.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/four/IfElseIfCondition.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/four/WhenNoArgs.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/four/BreakContinue.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/four/InvalidNameException.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/four/ThrowExceptionTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/four/TryCatch.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/four/test3.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/META-INF/kotlinStudy.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/kotlin/main/META-INF/kotlinStudy.kotlin_module" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/build-history.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/build-history.bin" afterDir="false" />
@@ -80,8 +81,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin Interface" />
-        <option value="Kotlin File" />
         <option value="Kotlin Class" />
+        <option value="Kotlin File" />
       </list>
     </option>
   </component>
@@ -118,86 +119,86 @@
       <recent name="C:\Users\taked\IdeaProjects\kotlinStudy\src\main\kotlin\01" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.four.ForeTriangleKt">
-    <configuration name="four.ForSumKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Kotlin.Mamuri1Kt">
+    <configuration name="BreakContinueKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="kotlinStudy.main" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="four.ForSumKt" />
+      <option name="MAIN_CLASS_NAME" value="four.BreakContinueKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="four.ForeTriangleKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="InvalidNameExceptionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="kotlinStudy.main" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="four.ForeTriangleKt" />
+      <option name="MAIN_CLASS_NAME" value="four.InvalidNameExceptionKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="four.IfElseIfConditionKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="Mamuri1Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="kotlinStudy.main" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="four.IfElseIfConditionKt" />
+      <option name="MAIN_CLASS_NAME" value="four.Mamuri1Kt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="four.WhenNoArgsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="ThrowExceptionTestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="kotlinStudy.main" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="four.WhenNoArgsKt" />
+      <option name="MAIN_CLASS_NAME" value="four.ThrowExceptionTestKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="three.AttackMainKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="TryCatchKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="kotlinStudy.main" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="three.AttackMainKt" />
+      <option name="MAIN_CLASS_NAME" value="four.TryCatchKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Kotlin.three.AttackMainKt" />
-      <item itemvalue="Kotlin.four.IfElseIfConditionKt" />
-      <item itemvalue="Kotlin.four.WhenNoArgsKt" />
-      <item itemvalue="Kotlin.four.ForSumKt" />
-      <item itemvalue="Kotlin.four.ForeTriangleKt" />
+      <item itemvalue="Kotlin.BreakContinueKt" />
+      <item itemvalue="Kotlin.TryCatchKt" />
+      <item itemvalue="Kotlin.ThrowExceptionTestKt" />
+      <item itemvalue="Kotlin.InvalidNameExceptionKt" />
+      <item itemvalue="Kotlin.Mamuri1Kt" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.four.ForeTriangleKt" />
-        <item itemvalue="Kotlin.four.ForSumKt" />
-        <item itemvalue="Kotlin.four.WhenNoArgsKt" />
-        <item itemvalue="Kotlin.four.IfElseIfConditionKt" />
-        <item itemvalue="Kotlin.three.AttackMainKt" />
+        <item itemvalue="Kotlin.Mamuri1Kt" />
+        <item itemvalue="Kotlin.InvalidNameExceptionKt" />
+        <item itemvalue="Kotlin.ThrowExceptionTestKt" />
+        <item itemvalue="Kotlin.TryCatchKt" />
+        <item itemvalue="Kotlin.BreakContinueKt" />
       </list>
     </recent_temporary>
   </component>
@@ -230,6 +231,7 @@
       <workItem from="1591422555605" duration="8826000" />
       <workItem from="1591444839164" duration="1547000" />
       <workItem from="1591505963902" duration="2661000" />
+      <workItem from="1591677090483" duration="5151000" />
     </task>
     <task id="LOCAL-00001" summary="1장 코틀린 시작하기 완료">
       <created>1591161453148</created>
@@ -287,6 +289,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="577" y="435" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1591162486949" />
+    <state x="676" y="176" key="#four.ForeTriangleKt" timestamp="1591677159115">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="676" y="176" key="#four.ForeTriangleKt/0.0.1920.1040@0.0.1920.1040" timestamp="1591677159115" />
     <state x="739" y="165" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog" timestamp="1591355016146">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -300,26 +306,26 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="260" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1591161356838" />
-    <state width="1865" height="267" key="GridCell.Tab.0.bottom" timestamp="1591508456582">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1591685188890">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1865" height="267" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1591508456582" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1591431973997" />
-    <state width="1865" height="267" key="GridCell.Tab.0.center" timestamp="1591508456582">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1591685188890" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1591685188890">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1865" height="267" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1591508456582" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1591431973997" />
-    <state width="1865" height="267" key="GridCell.Tab.0.left" timestamp="1591508456582">
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1591685188890" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1591685188890">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1865" height="267" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1591508456582" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1591431973997" />
-    <state width="1865" height="267" key="GridCell.Tab.0.right" timestamp="1591508456582">
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1591685188890" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1591685188890">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1865" height="267" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1591508456582" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1591431973997" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1591685188890" />
     <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1591460234910">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -334,14 +340,18 @@
     </state>
     <state x="652" y="343" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1591506016515" />
     <state x="652" y="343" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1591422897593" />
+    <state x="92" y="92" width="1736" height="856" key="dock-window-1" timestamp="1591684861119">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="dock-window-1/0.0.1920.1040@0.0.1920.1040" timestamp="1591684861119" />
     <state x="339" y="121" key="new project wizard" timestamp="1591160505189">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="339" y="121" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1591160505189" />
-    <state x="623" y="225" width="840" height="678" key="search.everywhere.popup" timestamp="1591508665395">
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1591685236610">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="623" y="225" width="840" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1591508665395" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1591444524818" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1591685236610" />
   </component>
 </project>
